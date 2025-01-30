@@ -23,7 +23,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper “SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks” accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp ‘24).
+- *2024.07*: &nbsp;🎉🎉 Our paper “SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks” accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024).
 
 # 📝 Selected Publications 
 
@@ -32,7 +32,9 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 [SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://dl.acm.org/doi/abs/10.1145/3678571)
 
-**Weibin Zhang**, Youpeng Li, Lingling An, Bo Wan, Xuyu Wang
+- **Weibin Zhang**, Youpeng Li, Lingling An, Bo Wan, Xuyu Wang
+- In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
+- **CCF-A** | [**Github**](https://github.com/wbzhangslab/sars-main/tree/main)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
@@ -42,6 +44,21 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+
+# 🕵🏼‍♂️ Professional Service
+**Journal Reviewer**  <br>
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) |
+<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, IF=8.9</span> <br>
+- IEEE Transactions on Dependable and Secure Computing (TDSC) |
+<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, IF=6.8</span> <br>
+- IEEE Transactions on Mobile Computing (TMC) |
+<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, IF=6.0</span> <br>
+
+**Conference Reviewer**  <br>
+- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (IMWUT) |
+<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, h5-m=689</span> <br>
+
 
 # 📖 Educations
 **Aug. 2022 - present** *Doctor of Philosophy (Ph.D.)*
