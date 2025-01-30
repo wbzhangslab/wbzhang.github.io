@@ -39,15 +39,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
 *Aug. 2022 - present* Doctor of Philosophy (Ph.D.)
 - Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering. 
+
 *Sep. 2018 - Jun. 2022* Bachelor of Engineering (B.S.)
 - Major in Software Engineering, Guangzhou University, School of Computer Science and Cyber Engineering.
 
