@@ -27,7 +27,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMWUT 2024</div><img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMWUT 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://dl.acm.org/doi/abs/10.1145/3678571)
@@ -48,16 +48,11 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 # 🕵🏼‍♂️ Professional Service
 **Journal Reviewer**  <br>
-- IEEE Transactions on Knowledge and Data Engineering (TKDE) |
-<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, IF=8.9</span> <br>
-- IEEE Transactions on Dependable and Secure Computing (TDSC) |
-<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, IF=6.8</span> <br>
-- IEEE Transactions on Mobile Computing (TMC) |
-<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, IF=6.0</span> <br>
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 
+- IEEE Transactions on Mobile Computing (TMC) 
 
 **Conference Reviewer**  <br>
-- IEEE/CVF Conference Computer Vision and Pattern Recognition Conference (IMWUT) |
-<span style="background-color: #f0f0f0; padding: 2px;">CCF-A, h5-m=689</span> <br>
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
 
 
 # 📖 Educations
