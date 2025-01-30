@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weibin Zhang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D Candidate in School of Cyber Engineering at Xidian University. "
 repository               : "wbzhangslab/wbzhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Weibin Zhang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xidian University"
   location         : "Xi'an, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/wbzhangslab"
   google_plus      :
   keybase          :
   instagram        :
