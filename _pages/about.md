@@ -33,15 +33,14 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SARS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMWUT 2024</div><img src='images/SARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gasuXOwAAAAJ&citation_for_view=gasuXOwAAAAJ:qjMakFHDy7sC)
 
 - **Weibin Zhang**, Youpeng Li, Lingling An, Bo Wan, Xuyu Wang
-- In <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT)</em>.
 - <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> | 
-[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <a href='https://dl.acm.org/doi/abs/10.1145/3678571'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
+[**Paper**](https://dl.acm.org/doi/abs/10.1145/3678571) <a href='https://dl.acm.org/doi/abs/10.1145/3678571'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
 [**Github**](https://github.com/wbzhangslab/sars-main/tree/main) [![](https://github.com/wbzhangslab/sars-main/tree/main)](https://github.com/wbzhangslab/sars-main/tree/main)
 </div>
 </div>
