@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian University, under the supervision of Prof. Yinbin Miao. During the Ph.D stage, I was a visiting Ph.D student in Florida International University, under the supervision of Prof. Xuyu Wang. My research interest includes AI Security (Backdoor/Adversarial Attack in the context of Federated Learning/LLM) and Wireless Sensing(Physical World Adversarial Attack). 
+I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian University, under the supervision of Prof. Yinbin Miao. During the Ph.D stage, I was a visiting Ph.D student in Florida International University, under the supervision of Prof. Xuyu Wang. My research interest includes AI Security and Wireless Sensing.
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
-**Aug. 2022 - present** - *Doctor of Philosophy (Ph.D.)*
+**Aug. 2022 - Present** - *Doctor of Philosophy (Ph.D.)*
 - Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering. 
 
 **Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*
@@ -33,17 +33,16 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMWUT 2024</div><img src='images/500x300.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://dl.acm.org/doi/abs/10.1145/3678571)
+[SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gasuXOwAAAAJ&citation_for_view=gasuXOwAAAAJ:qjMakFHDy7sC)
 
 - **Weibin Zhang**, Youpeng Li, Lingling An, Bo Wan, Xuyu Wang
-- In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
-- **CCF-A** | [**Github**](https://github.com/wbzhangslab/sars-main/tree/main)
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- In <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT)</em>.
+- <span style="background-color: #f0f0f0; padding: 2px;">CCF-A</span> | 
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.pdf) <a href='https://dl.acm.org/doi/abs/10.1145/3678571'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
+[**Github**](https://github.com/wbzhangslab/sars-main/tree/main) [![](https://github.com/wbzhangslab/sars-main/tree/main)](https://github.com/wbzhangslab/sars-main/tree/main)
 </div>
 </div>
 
@@ -58,7 +57,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 - IEEE Transactions on Mobile Computing (TMC) 
 
 **Conference Reviewer**  <br>
-- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2025)
 
 
 <!--## 💬 Invited Talks
