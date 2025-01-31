@@ -33,7 +33,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SARS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/SARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gasuXOwAAAAJ&citation_for_view=gasuXOwAAAAJ:qjMakFHDy7sC)
