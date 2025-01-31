@@ -21,13 +21,19 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
+# 📖 Educations
+**Aug. 2022 - present** - *Doctor of Philosophy (Ph.D.)*
+- Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering. 
+
+**Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*
+- Major in Software Engineering, Guangzhou University, School of Computer Science and Cyber Engineering.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper “SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks” accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024).
+- *2024.07*: &nbsp;🎉🎉 Our paper “SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks” accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2024).
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMWUT 2024</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM IMWUT 2024</div><img src='images/500x300.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks](https://dl.acm.org/doi/abs/10.1145/3678571)
@@ -53,14 +59,6 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian Un
 
 **Conference Reviewer**  <br>
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024)
-
-
-# 📖 Educations
-**Aug. 2022 - present** *Doctor of Philosophy (Ph.D.)*
-- Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering. 
-
-**Sep. 2018 - Jun. 2022** *Bachelor of Engineering (B.S.)*
-- Major in Software Engineering, Guangzhou University, School of Computer Science and Cyber Engineering.
 
 
 <!--## 💬 Invited Talks
