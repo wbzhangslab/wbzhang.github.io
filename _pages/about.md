@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🥳 Welcome to My Homepage 
-I am currently a Ph.D. candidate in the School of Cyber Engineering at Xidian University, under the supervision of <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>. Before Ph.D stage, I completed a remote research internship in AIoT Lab, Florida International University, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>. My research interest includes AI Security and Wireless Sensing.
+I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='https://www.xidian.edu.cn/'>Xidian University</a>, under the supervision of <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>. Before Ph.D stage, I was a assistant researcher in AIoT Lab, <a href='[https://www.xidian.edu.cn/](https://www.fiu.edu/)'>Florida International University(USA)</a>, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>. My research interest includes AI Security and Wireless Sensing.
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
