@@ -24,13 +24,16 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
-**Aug. 2022 - Present** - *Doctor of Philosophy (Ph.D.)*    Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>
+**Aug. 2022 - Present** - *Doctor of Philosophy (Ph.D.)*    
+- Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>
 - Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering
   
-**Aug. 2022 - Jun. 2024** - *Researh Assistant*    Supervisor: <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a> 
+**Aug. 2022 - Jun. 2024** - *Researh Assistant*    
+- Supervisor: <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a> 
 - Knight Foundation School of Computing and Information Sciences, Florida International University (USA)
   
-**Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*    Supervisor: <a href='https://iaib.gzhu.edu.cn/info/1232/1021.htm'>Prof. Jin Li</a>
+**Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*    
+- Supervisor: <a href='https://iaib.gzhu.edu.cn/info/1232/1021.htm'>Prof. Jin Li</a>
 - Major in Software Engineering, Guangzhou University, School of Computer Science and Cyber Engineering
 
 # 🔥 News
