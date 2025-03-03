@@ -19,22 +19,26 @@ redirect_from:
 
 
 # 🥳 Welcome to My Homepage 
-I am currently the third year Ph.D. candidate in the School of Cyber Engineering at <a href='https://www.xidian.edu.cn/'>Xidian University</a>, under the supervision of <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>. I was an assistant researcher in AIoT Lab, <a href='https://www.fiu.edu/'>Florida International University (USA)</a>, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a> in 2022 to 2024. My research interest includes AI Security and IoT Sensing.
+I am currently the first year Ph.D. candidate in the School of Cyber Engineering at <a href='https://www.xidian.edu.cn/'>Xidian University</a>, under the supervision of <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>. Before the Ph.D stage, I was an assistant researcher in AIoT Lab, <a href='https://www.fiu.edu/'>Florida International University (USA)</a>, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>. My research interest includes AI Security and IoT Sensing.
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
 **Aug. 2022 - Present** - *Doctor of Philosophy (Ph.D.)*    
 - Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>
-- Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering
+- Major in Cyber Space Security, School of Cyber Engineering, Xidian Univerity
   
 **Aug. 2022 - Jun. 2024** - *Researh Assistant*    
 - Supervisor: <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a> 
 - Knight Foundation School of Computing and Information Sciences, Florida International University (USA)
+
+**Aug. 2022 - Jun. 2024** - *Master of Engineering*    
+- Supervisor: <a href='https://scholar.google.com/citations?hl=zh-CN&user=DZuZUBYAAAAJ&view_op=list_works&sortby=pubdate'>Prof. Lingling An</a> 
+- Major in Computer Science and technology, Guangzhou Institute of Technology, Xidian Univerity
   
 **Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*    
 - Supervisor: <a href='https://iaib.gzhu.edu.cn/info/1232/1021.htm'>Prof. Jin Li</a>
-- Major in Software Engineering, Guangzhou University, School of Computer Science and Cyber Engineering
+- Major in Software Engineering, School of Computer Science and Cyber Engineering, Guangzhou University
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper “SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks” accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2024).
