@@ -24,7 +24,7 @@ I am currently the first year Ph.D. candidate in the School of Cyber Engineering
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
-**Aug. 2022 - Present** - *Doctor of Philosophy (Ph.D.)*    
+**Aug. 2024 - Present** - *Doctor of Philosophy (Ph.D.)*    
 - Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>
 - Major in Cyber Space Security, School of Cyber Engineering, Xidian Univerity
   
