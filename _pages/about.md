@@ -28,7 +28,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 - Major in Cyber Space Security, Xidian Univerity, School of Cyber Engineering (Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>). 
 
 **Aug. 2022 - Jun. 2024** - *Researh Assistant*
-- Knight Foundation School of Computing and Information Sciences, Florida International University (USA) (Supervisor: <a href='https://www.fiu.edu/'>Florida International University (USA)</a>). 
+- Knight Foundation School of Computing and Information Sciences, Florida International University (USA) (Supervisor: <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>). 
 
 **Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*
 - Major in Software Engineering, Guangzhou University, School of Computer Science and Cyber Engineering (Supervisor: <a href='https://iaib.gzhu.edu.cn/info/1232/1021.htm'>Prof. Jin Li</a>).
