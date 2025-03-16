@@ -54,7 +54,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/SARS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/process-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accuracy-Improved Privacy-Preserving Asynchronous Federated Learning in IoT](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gasuXOwAAAAJ&citation_for_view=gasuXOwAAAAJ:Tyk-4Ss8FVUC)
