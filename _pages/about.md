@@ -62,7 +62,7 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 - Shuying Liu, Lingbo Zhu, **Weibin Zhang**, Yinbin Miao, Tao Leng and Kim-Kwang Raymond Choo
 - <span style="background-color: #f0f0f0; padding: 2px;">JCR Q1</span> | 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10801217) <a href='https://ieeexplore.ieee.org/abstract/document/10801217'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
-[**Github**](https://github.com/MiaoGroupXDU/acc-improved-ppafl) [![](https://github.com/MiaoGroupXDU/acc-improved-ppafl)](https://github.com/MiaoGroupXDU/acc-improved-ppafl)
+[**Github**](https://github.com/MiaoGroup-XDU/acc-improved-ppafl) [![](https://github.com/MiaoGroup-XDU/acc-improved-ppafl)](https://github.com/MiaoGroup-XDU/acc-improved-ppafl)
 </div>
 </div>
 
