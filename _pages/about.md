@@ -54,6 +54,18 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/SARS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Accuracy-Improved Privacy-Preserving Asynchronous Federated Learning in IoT](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=gasuXOwAAAAJ&citation_for_view=gasuXOwAAAAJ:Tyk-4Ss8FVUC)
+
+- Shuying Liu, Lingbo Zhu, **Weibin Zhang**, Yinbin Miao, Tao Leng and Kim-Kwang Raymond Choo
+- <span style="background-color: #f0f0f0; padding: 2px;">JCR Q1</span> | 
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10801217) <a href='https://ieeexplore.ieee.org/abstract/document/10801217'><span class='show_paper_citations' data='rKhmgskAAAAJ:_FxGoFyzp5QC'></span></a> | 
+[**Github**](https://github.com/MiaoGroupXDU/acc-improved-ppaf) [![](https://github.com/MiaoGroupXDU/acc-improved-ppaf)](https://github.com/MiaoGroupXDU/acc-improved-ppaf)
+</div>
+</div>
+
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
