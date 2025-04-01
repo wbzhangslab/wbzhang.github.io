@@ -74,7 +74,8 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 # 🕵🏼‍♂️ Professional Service
 **Journal Reviewer**  <br>
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 
-- IEEE Transactions on Mobile Computing (TMC) 
+- IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Network and Service Management (TNSM)
 
 **Conference Reviewer**  <br>
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2025)
