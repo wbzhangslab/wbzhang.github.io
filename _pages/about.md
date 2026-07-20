@@ -35,7 +35,8 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 Our paper “SARS: A Personalized Federated Learning Framework Towards Fairness and Robustness against Backdoor Attacks” accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2024).
-- *2024.12*: &nbsp;🎉🎉 Our paper “Accuracy-Improved Privacy-Preserving Asynchronous Federated Learning in IoT” accepted to the IEEE Internet of Things Journal. Congrats to Shuying and Lingbo!
+- *2024.12*: &nbsp;🎉🎉 Our paper “Accuracy-Improved Privacy-Preserving Asynchronous Federated Learning in IoT” accepted to the IEEE Internet of Things Journal. Congrats to Lingbo!
+- *2026.06*: &nbsp;🎉🎉 Our paper “Fair federated learning with privacy protection for heterogeneous data” accepted to the Chinese Journal of Network and Information Security. Congrats to Ju!
 
 # 📝 Selected Publications 
 
