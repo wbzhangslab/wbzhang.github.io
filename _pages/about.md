@@ -84,9 +84,9 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 
 
 # 💻 Co-advise with Yinbin Miao \& Lingling An
-- 2023~2026 Shuai Zhu (BS. HAU , First Job. Beijing Kuaishou Technology Co., Ltd.)
-- 2024~2027 Jie Ren (BS.), Ju Wu (BS. XDU)
-- 2025~2028 Tingmin Wu (BS. CQPU), Siyuan Han (BS. XDU), Junhao Li (BS. BISTU), Zhicheng Hai (BS. XDU)
+- 2023~2026 Shuai Zhu (BS. HAU , First Job. Beijing Kuaishou Technology Co., Ltd. Publication: ACM Chase ×1)
+- 2024~2027 Jie Ren (BS. HEBUST, Publication: Patent ×1), Ju Wu (BS. XDU, Publication: Chinese Journal of Network and Information Security ×1)
+- 2025~2028 Tingmin Wu (BS. CQPU), Siyuan Han (BS. XDU, Publication NetInfo Security ×1 + Patent ×1), Junhao Li (BS. BISTU), Zhicheng Hai (BS. XDU)
 
 <!--## 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
