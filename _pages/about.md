@@ -74,11 +74,19 @@ I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='
 **Journal Reviewer**  <br>
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 
 - IEEE Transactions on Mobile Computing (TMC)
-- IEEE Transactions on Network and Service Management (TNSM)
+- IEEE Transactions on Information Forensics and Security (TIFS)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 **Conference Reviewer**  <br>
-- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2025)
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT 2025/2026)
+- Annual Conference on Neural Information Processing Systems (NeurIPS 2025/2026)
+- International Conference on Learning Representations (ICLR 2027)
 
+
+# 💻 Co-advise with Yinbin Miao \& Lingling An
+- 2023~2026 Shuai Zhu (BS. HAU , First Job. Beijing Kuaishou Technology Co., Ltd.)
+- 2024~2027 Jie Ren (BS.), Ju Wu (BS. XDU)
+- 2025~2028 Tingmin Wu (BS. CQPU), Siyuan Han (BS. XDU), Junhao Li (BS. BISTU), Zhicheng Hai (BS. XDU)
 
 <!--## 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
