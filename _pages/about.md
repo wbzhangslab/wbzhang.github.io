@@ -1,4 +1,4 @@
----
+<img width="1310" height="616" alt="image" src="https://github.com/user-attachments/assets/8f3500d6-760a-431e-b189-f818e1167653" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -19,18 +19,18 @@ redirect_from:
 
 
 # 🥳 Welcome to My Homepage 
-I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='https://www.xidian.edu.cn/'>Xidian University</a>, under the supervision of <a href='https://faculty.xidian.edu.cn/MYB1/zh_CN/index/391505/list/index.htm'>Prof. Yinbin Miao</a>. During my first year Ph.D stage, I was a visiting Ph.D student in AIoT Lab, <a href='https://www.fiu.edu/'>Florida International University (USA)</a>, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>. My research interest includes AI Security and IoT Sensing.
+I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='https://www.xidian.edu.cn/'>Xidian University</a>, under the supervision of <a href='https://faculty.xidian.edu.cn/MYB1/zh_CN/index/391505/list/index.htm'>Prof. Yinbin Miao</a>. During my second year Ph.D stage, I was a visiting Ph.D student in AIoT Lab, <a href='https://www.fiu.edu/'>Florida International University (USA)</a>, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>. My research interest includes AI Security and IoT Sensing.
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 📖 Educations
 **Aug. 2022 - Dec. 2027 (Expected)** - *Doctor of Philosophy (Ph.D.)*    
-- Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a>
+- Supervisor: <a href='https://web.xidian.edu.cn/ybmiao/index.html'>Prof. Yinbin Miao</a> and <a href='https://yifengzcs.github.io/index.html'> Assistant Prof. Yifeng Zheng 
 - Major in Cyber Space Security, School of Cyber Engineering, Xidian Univerity
-- Researh Assistant (Aug. 2023 - Jun. 2024 ), Knight Foundation School of Computing and Information Sciences, Florida International University (USA)
+- Researh Assistant (Aug. 2023 - Jun. 2024 ), Knight Foundation School of Computing and Information Sciences, Florida International University (USA) <a href='https://www.fiu.edu/'>Co-Supervisor Assistant Prof. Xuyu Wang 
   
 **Sep. 2018 - Jun. 2022** - *Bachelor of Engineering (B.S.)*    
-- Supervisor: <a href='https://iaib.gzhu.edu.cn/info/1232/1021.htm'>Prof. Jin Li</a>
+- Supervisor: <a href='https://iaib.gzhu.edu.cn/info/1232/1021.htm'>Prof. Jin Li, <a href='https://changyudong.site/'>Prof. Changyu Dong and <a href='https://sites.google.com/view/kongyang/home?pli=1&authuser=0'>Associate Prof. Kongyang Chen</a>
 - Major in Software Engineering, School of Computer Science and Cyber Engineering, Guangzhou University
 
 # 🔥 News
