@@ -1,23 +1,3 @@
-<img width="1310" height="616" alt="image" src="https://github.com/user-attachments/assets/8f3500d6-760a-431e-b189-f818e1167653" />---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-
 # 🥳 Welcome to My Homepage 
 I am currently a Ph.D. candidate in the School of Cyber Engineering at <a href='https://www.xidian.edu.cn/'>Xidian University</a>, under the supervision of <a href='https://faculty.xidian.edu.cn/MYB1/zh_CN/index/391505/list/index.htm'>Prof. Yinbin Miao</a>. During my second year Ph.D stage, I was a visiting Ph.D student in AIoT Lab, <a href='https://www.fiu.edu/'>Florida International University (USA)</a>, under the supervision of <a href='https://users.cs.fiu.edu/~xuywang'>Prof. Xuyu Wang</a>. My research interest includes AI Security and IoT Sensing.
 
